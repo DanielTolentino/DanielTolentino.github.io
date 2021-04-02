@@ -1,14 +1,8 @@
 body{
 	background-color: #2196f3;
 	font-family: 'Roboto', 'FontAwesome';
-	 /*com isso o header ficará sempre com o tamanho da tela */
-	 height: 100%;
-	 /*background geralmente uso o modo compacto, mas aqui vou colocar separadamente para explicar cada parte*/
-	 /* aqui defino a imagem maior*/
-		 /*deixa o background com efeito paralax*/
-	 background-attachment: fixed;
-	 /* cover é para nunca deixar espaço sem imagem*/
-	 background-size: cover;
+	height: 100%;
+
 }
 
 section {
