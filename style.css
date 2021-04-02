@@ -1,13 +1,7 @@
-html{
-	margin:0;
-	padding:0;
-	max-height:100vh;
-	overflow:hidden;
-}
 body{
 	background-color: #2196f3;
 	height: 100%;
-	font-family: 'Roboto', /* 'FontAwesome' */;
+	font-family: 'Roboto', 'FontAwesome';
 
 }
 
@@ -57,7 +51,7 @@ div {
 	position: relative;
 	flex-direction: row;
 	justify-content: center;
-	/* font-family: 'FontAwesome'; */
+	font-family: 'FontAwesome';
 	margin-top: 10px;
 	background-color: #A8DADC;
 }
@@ -120,7 +114,7 @@ a:link {
   }
 
   a.a-git{
-font-family: 'Roboto', /* 'FontAwesome' */;
+font-family: 'Roboto', 'FontAwesome';
 color: #457B9D;
 background-color: #24292E;
 padding: 15px;
@@ -140,7 +134,7 @@ font-size: 16px;
   }
 
   a.a-fb{
-	font-family: 'Roboto', /* 'FontAwesome' */;
+	font-family: 'Roboto', 'FontAwesome';
 	color: #457B9D;
 	background-color: #129CF7;
 	padding: 15px;
@@ -160,7 +154,7 @@ font-size: 16px;
 	  }
 
 	  a.a-insta{
-		font-family: 'Roboto', /* 'FontAwesome' */;
+		font-family: 'Roboto', 'FontAwesome';
 		color: #457B9D;
 		background-color: #B23591;
 		padding: 15px;
